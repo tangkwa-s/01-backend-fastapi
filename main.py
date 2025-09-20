@@ -104,14 +104,3 @@ def delete_product_by_id(id: int):
     products = product_temp
 
     return {'message': 'Delete successfully.'}
-
-
-
-
-'''
-{
-"name" : "Apple",
-"price": 15,
-"amount": 100
-}
-'''
